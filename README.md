@@ -1,6 +1,4 @@
 # MARIO-Multiplayer-JS
-## BUG : Game Player lags after few moments
-
 
 Mario Multiplay web on SocketIO Express Node
 
